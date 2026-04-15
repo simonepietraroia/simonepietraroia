@@ -24,6 +24,3 @@ I am **Simone Pietraroia**, a web developer passionate about building useful and
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-⭐️ From [simonepietraroia](https://github.com/simonepietraroia)
